@@ -14,7 +14,7 @@ st.markdown(
 )
 
 # Input from user
-freq_per_week = st.slider("Kor mange gonger pr. week?", min_value=0, max_value=30, value=3)
+freq_per_week = st.slider("Kor mange gonger pr. veke?", min_value=0, max_value=30, value=3)
 
 # Constants
 years = 60  # 15 to 75 years old
