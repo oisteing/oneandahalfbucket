@@ -6,7 +6,7 @@ st.title("Livstidskalkulator for sædvolum")
 # Intro text
 st.markdown(
     """
-    🤔 **Kor mange gonger pr. week?**  
+    🤔 **Kor mange gonger pr. veke?**  
     Her kan du rekne ut omtrent kor mykje sæd ein mann vil ejakulere i løpet av eit liv, basert på vanleg frekvens per veke.
     
     **Merk:** Dette er berre eit overslag basert på gjennomsnittstal.
